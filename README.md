@@ -9,8 +9,8 @@
 
 3. Analyzes stored data to:
 
-Identify the most frequently asked questions.
+   Identify the most    frequently asked questions.
 
-Detect patterns in customer concerns.
+   Detect patterns in customer concerns.
 
-Predict customer behavio
+   Predict customer behavio
