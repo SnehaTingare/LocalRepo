@@ -13,4 +13,4 @@
 
    Detect patterns in customer concerns.
 
-   Predict customer behavio
+   Predict customer behavior
